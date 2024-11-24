@@ -79,7 +79,7 @@ The **confusion matrix** is used to evaluate the performance of the OCR model. I
 
 Here is an example image, where we visualize the classified classes 4 and 2:
 
-![Confusion Matrix](image-of-classes.png)
+![Images](image-of-classes.png)
 
 ### Performance Metrics 📊
 
@@ -116,7 +116,8 @@ In addition to the confusion matrix, we generate plots to visualize the model’
 
 You can refer to the following images for further insights:
 
-- **Confusion Matrix**: ![Confusion_Matrix](Confusion-Matrix.png)
+- **Confusion Matrix**:
+- ![Confusion_Matrix](Confusion-Matrix.png)
 
 ## License 📜
 
