@@ -117,6 +117,7 @@ In addition to the confusion matrix, we generate plots to visualize the model’
 You can refer to the following images for further insights:
 
 - **Confusion Matrix**:
+
   ![Confusion_Matrix](Confusion-Matrix.png)
 
 ## License 📜
