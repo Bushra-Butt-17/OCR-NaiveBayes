@@ -77,7 +77,7 @@ Once the model is trained, we test its accuracy using the test data. The predict
 
 The **confusion matrix** is used to evaluate the performance of the OCR model. It shows the actual vs predicted class labels and is used to calculate metrics like precision, recall, and F1-score.
 
-Here is an example confusion matrix, where we visualize how well the model has classified classes 4 and 2:
+Here is an example image, where we visualize the classified classes 4 and 2:
 
 ![Confusion Matrix](image-of-classes.png)
 
@@ -116,8 +116,7 @@ In addition to the confusion matrix, we generate plots to visualize the model’
 
 You can refer to the following images for further insights:
 
-- **Learning Curve**: ![Learning Curve](learning-curve.png)
-- **Character Recognition Example**: ![Character Recognition](character-recognition.png)
+- **Confusion Matrix**: ![Confusion_Matrix](Confusion-Matrix.png)
 
 ## License 📜
 
