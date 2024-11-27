@@ -126,5 +126,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
+
 Thank you for exploring the OCR using Naive Bayes project! If you have any questions, suggestions, or improvements, feel free to open an issue or pull request. 😊
 ```
