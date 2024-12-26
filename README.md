@@ -1,7 +1,7 @@
 
 # OCR using Naive Bayes 📚🤖
 
-![image](https://github.com/user-attachments/assets/c1a4bb87-fa12-4fcb-932b-fbde3d3a45a2)
+<img src="https://github.com/user-attachments/assets/c1a4bb87-fa12-4fcb-932b-fbde3d3a45a2" width="100%">
 
 
 Welcome to the **OCR using Naive Bayes** project! This project demonstrates an Optical Character Recognition (OCR) system built using the **Naive Bayes classifier**. The goal is to recognize and classify characters in images based on a dataset of features and labels. This system processes the text data using machine learning techniques to make accurate predictions.
