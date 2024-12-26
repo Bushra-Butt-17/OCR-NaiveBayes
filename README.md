@@ -25,7 +25,7 @@ To run this project and test the OCR system, follow these steps:
 
 1. **Clone the Repository**: Download the project by cloning the repository to your local machine.
    ```bash
-   git clone https://github.com/Bushra-Butt-17/ocr-using-naive-bayes.git
+    https://github.com/Bushra-Butt-17/OCR-NaiveBayes.git
    ```
 
 2. **Navigate to the Project Folder**: Change to the directory where the repository is located.
